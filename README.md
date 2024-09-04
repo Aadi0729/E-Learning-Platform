@@ -70,3 +70,7 @@ Developed a comprehensive online learning platform with three user types (Studen
 #### *Payment Integration:*
   - Stripe or PayPal or razorpay for secure and seamless payments
 
+### Connect with me :
+
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityapateriya7986@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-pateriya7781/)
