@@ -1,5 +1,4 @@
-
-# Online Learning Platform
+# E - Learning Platform
 
 Online Learning Platform using MERN Stack
 
