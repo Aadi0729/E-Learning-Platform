@@ -7,9 +7,6 @@ Online Learning Platform using MERN Stack
 
 Develop a comprehensive online learning platform with three user types (Student, Teacher, Admin), featuring course creation, approval process, and live video conferencing.
 
-## *BACKEND for the PROJECT
-   - Backend is developed by [Parag](https://github.com/paragkadyan).
-
 ## Features
 ![Screenshot 2024-05-14 212028](https://github.com/Pika003/e-Learning-Platform/assets/104189733/e2f9ce48-764b-48d2-8af1-188ea2918e8c)
 
@@ -40,8 +37,6 @@ Develop a comprehensive online learning platform with three user types (Student,
 #### 4. *Course Purchase:*
 
    - Students can browse and buy courses on the platform.
-     
-![Screenshot 2024-05-14 211813](https://github.com/Pika003/e-Learning-Platform/assets/104189733/1578ca04-b85d-4c7b-8875-12f6756f2621)
 
 #### 5. *Live Video Conferencing:*
    - Integrated video conferencing tool (similar to Google Meet) for real-time teacher-student interaction.
@@ -56,10 +51,6 @@ Develop a comprehensive online learning platform with three user types (Student,
 
 
 ## *Tech Stack:*
-
-#### *UI/UX:*
-  - [figma](https://www.figma.com/file/6b4R8evBkii6mI53IA4vSS/Online-Learning-Platform?type=design&node-id=0-1&mode=design&t=HBUPk2hRYW3ioAUj-0) 
-  - Dribbble
 
 #### *Frontend:*
   - React (Vite) for dynamic and responsive UI.
